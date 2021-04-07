@@ -6,13 +6,13 @@
     <title>Unity WebGL Player | Lib_Demo</title>
   </head>
   <body style="text-align: center">
-    <canvas id="unity-canvas" style="width: 960px; height: 600px; background: #231F20"></canvas>
+    <canvas id="unity-canvas" style="width: 1280px; height: 720px; background: #231F20"></canvas>
     <script src="Build/Lib.loader.js"></script>
     <script>
       createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/Lib.data.gz",
-        frameworkUrl: "Build/Lib.framework.js.gz",
-        codeUrl: "Build/Lib.wasm.gz",
+        dataUrl: "Build/Lib.data.unityweb",
+        frameworkUrl: "Build/Lib.framework.js.unityweb",
+        codeUrl: "Build/Lib.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "Lib_Demo",

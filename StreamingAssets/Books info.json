@@ -1,0 +1,35 @@
+{ "Books":
+  [
+    {
+      "Name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "Link": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook-dp-B001GSTOAM/dp/B001GSTOAM/ref=mt_other?_encoding=UTF8&me=&qid=",
+      "Texture": "https://images-na.ssl-images-amazon.com/images/I/41SH-SvWPxL._SX376_BO1,204,203,200_.jpg"
+    },
+    {
+      "Name": "The Clean Coder: A Code of Conduct for Professional Programmers",
+      "Link": "https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=pd_lpo_14_t_0/139-4440524-0129810?_encoding=UTF8&pd_rd_i=0137081073&pd_rd_r=a40a8ac5-9f73-44ac-a06b-8ba3c489bca6&pd_rd_w=h5Arg&pd_rd_wg=aFEpC&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=JB3GJQ601WTT2KZ29N6S&psc=1&refRID=JB3GJQ601WTT2KZ29N6S",
+      "Texture": "https://d188rgcu4zozwl.cloudfront.net/content/B0050JLC9Y/images/cover.jpg"
+    },
+    {
+      "Name": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+      "Link": "https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=pd_bxgy_img_3/139-4440524-0129810?_encoding=UTF8&pd_rd_i=0134494164&pd_rd_r=eb925e7b-5c68-45f1-8420-c644ddae6ebc&pd_rd_w=ppNPp&pd_rd_wg=xmREe&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=30TRREYRPMHBKVB6GFPB&psc=1&refRID=30TRREYRPMHBKVB6GFPB",
+      "Texture": "https://d188rgcu4zozwl.cloudfront.net/content/B075LRM681/resources/1861708161"
+    },
+    {
+      "Name": "Code Complete (Developer Best Practices)",
+      "Link": "https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook-dp-B00JDMPOSY/dp/B00JDMPOSY/ref=mt_other?_encoding=UTF8&me=&qid=",
+      "Texture": "https://images-na.ssl-images-amazon.com/images/I/51MEZDyKvZL._SX409_BO1,204,203,200_.jpg"
+    },
+    {
+      "Name": "The Pragmatic Programmer: Your Journey To Mastery",
+      "Link": "https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/ref=as_li_ss_tl?_encoding=UTF8&qid=1581972273&sr=1-1&linkCode=sl1&tag=daolf-20&linkId=7d7bc7849584bd034c885e970153263c&language=en_US&linkCode=w61&imprToken=442Ey.Wx.OzOryxOHwl92w&slotNum=48",
+      "Texture": "https://images-na.ssl-images-amazon.com/images/I/51cUVaBWZzL._SX380_BO1,204,203,200_.jpg"
+    },
+    {
+      "Name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "Link": "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612",
+      "Texture": "https://d188rgcu4zozwl.cloudfront.net/content/B000SEIBB8/resources/1162737868"
+    }
+  ]
+}
+
